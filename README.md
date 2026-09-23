@@ -42,27 +42,6 @@ c/
 
 - C
 
-## Repository Structure
-
-```text
-c-programming-practice/
-├── Basic-Codes/
-│   ├── 01_structure_of_c_program.c
-│   ├── 02_data_types.c
-│   ├── ...
-│   ├── 18_file_handling.c
-│   ├── 19_class_and_object.cpp
-│   ├── 20_inheritance.cpp
-│   └── 21_polymorphism.cpp
-│
-└── projects/
-    ├── contact_management_system.c
-    ├── calculator.c
-    ├── tic_tac_toe.c
-    ├── quiz_game.c
-    ├── to_do_list.c
-    └── password_generator.c
-
 Purpose
 
 This repository is created to practice programming fundamentals, improve problem-solving skills, and build a strong foundation in C and C++.
