@@ -64,3 +64,11 @@ c-programming-practice/
     ├── quiz_game.c
     ├── to_do_list.c
     └── password_generator.c
+
+Purpose
+
+This repository is created to practice programming fundamentals, improve problem-solving skills, and build a strong foundation in C and C++.
+
+Author
+
+Muntasir Hasan Jim
