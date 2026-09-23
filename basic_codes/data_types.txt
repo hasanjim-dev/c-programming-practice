@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    int age = 20;
+    float height = 5.8;
+    double salary = 25000.50;
+    char grade = 'A';
+
+    printf("Age: %d\n", age);
+    printf("Height: %.2f\n", height);
+    printf("Salary: %.2lf\n", salary);
+    printf("Grade: %c\n", grade);
+
+    return 0;
+}
